@@ -1,6 +1,6 @@
 {
     "name":"Squirrelbite VPM Repository",
-    "id":"com.squirrelbite.vpm",
+    "id":"io.github.squirrelbite.vpm",
     "url":"https://squirrelbite.github.io/vpm/index.json",
     "author":{
         "email":"mars@squirrel.pub",
