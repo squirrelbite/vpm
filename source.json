@@ -17,13 +17,13 @@
         {
             "name":"com.squirrelbite.nna.unity",
             "releases":[
-                "https://github.com/emperorofmars/nna-unity/releases/download/0.0.1/com.squirrelbite.nna.unity.zip",
+                "https://github.com/emperorofmars/nna-unity/releases/download/v0.0.1/com.squirrelbite.nna.unity.zip",
             ]
         },
         {
             "name":"com.squirrelbite.nna.unity.ava.vrc",
             "releases":[
-                "https://github.com/emperorofmars/nna-unity/releases/download/0.0.1/com.squirrelbite.nna.unity.ava.vrc.zip",
+                "https://github.com/emperorofmars/nna-unity/releases/download/v0.0.1/com.squirrelbite.nna.unity.ava.vrc.zip",
             ]
         }
     ]
