@@ -1,27 +1,29 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"Squirrelbite VPM Repository",
+    "id":"com.squirrelbite.vpm",
+    "url":"https://squirrelbite.github.io/vpm/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"mars@squirrel.pub",
+        "name":"Emperor of Mars",
+        "url":"https://squirrelbite.com"
     },
-    "description":"Example listing of VRChat packages",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"http://github.com/squirrelbite/vpm/index.json",
         "text":"View on GitHub"
     },
-    "bannerUrl":"banner.png",
-    "githubRepos":[
-        "vrchat-community/clientsim"
-    ],
+    "bannerUrl":"https://squirrelbite.com/assets/base/squirrelbite.svg",
+    "githubRepos":[],
     "packages":[
         {
-            "name":"com.vrchat.udonsharp",
+            "name":"com.squirrelbite.nna.unity",
             "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
+                "https://github.com/emperorofmars/nna-unity/releases/download/0.0.1/com.squirrelbite.nna.unity.zip",
+            ]
+        },
+        {
+            "name":"com.squirrelbite.nna.unity.ava.vrc",
+            "releases":[
+                "https://github.com/emperorofmars/nna-unity/releases/download/0.0.1/com.squirrelbite.nna.unity.ava.vrc.zip",
             ]
         }
     ]
