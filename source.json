@@ -32,17 +32,5 @@
                 "https://github.com/emperorofmars/nna-unity/releases/download/v0.0.2/com.squirrelbite.nna.unity.ava.vrc.zip",
             ]
         },
-        {
-            "name":"com.squirrelbite.nna.unity.ava.univrm0",
-            "releases":[
-                "https://github.com/emperorofmars/nna-unity/releases/download/v0.0.2/com.squirrelbite.nna.unity.ava.univrm0.zip",
-            ]
-        },
-        {
-            "name":"com.squirrelbite.nna.unity.all",
-            "releases":[
-                "https://github.com/emperorofmars/nna-unity/releases/download/v0.0.2/com.squirrelbite.nna.unity.all.zip",
-            ]
-        }
     ]
 }
