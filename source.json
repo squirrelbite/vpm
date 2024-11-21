@@ -12,13 +12,5 @@
         "text":"View on GitHub"
     },
     "bannerUrl":"https://squirrel.pub/system/accounts/headers/110/859/683/735/156/207/original/7da46ec07b27a81d.png",
-    "githubRepos":[],
-    "packages":[
-        {
-            "name":"com.squirrelbite.nna.unity",
-            "releases":[
-                "https://github.com/emperorofmars/nna_unity/releases/download/v0.0.5/com.squirrelbite.nna.unity.zip",
-            ]
-        }
-    ]
+    "githubRepos":["emperorofmars/nna_unity"]
 }
