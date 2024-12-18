@@ -12,5 +12,8 @@
         "text":"View on GitHub"
     },
     "bannerUrl":"https://squirrel.pub/system/accounts/headers/110/859/683/735/156/207/original/7da46ec07b27a81d.png",
-    "githubRepos":["emperorofmars/nna_unity"]
+    "githubRepos":[
+        "emperorofmars/nna_unity",
+        "emperorofmars/fix_vrc_fingers"
+    ]
 }
